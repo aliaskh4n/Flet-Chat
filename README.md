@@ -3,11 +3,11 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
     <div>
-      <img src="https://github.com/aliaskh4n/Flet-Chat/images/login-screen.png" alt="Экран входа в чат с полем для имени пользователя и кнопкой входа" width="600"/>
+      <img src="https://github.com/aliaskh4n/Flet-Chat/blob/main/images/login-screen.png" alt="Экран входа в чат с полем для имени пользователя и кнопкой входа" width="600"/>
       <p>Экран входа в чат</p>
     </div>
     <div>
-      <img src="https://github.com/aliaskh4n/Flet-Chat/images/chat-screen.png" alt="Интерфейс чата с панелью пользователей и полем ввода сообщений" width="600"/>
+      <img src="https://github.com/aliaskh4n/Flet-Chat/blob/main/images/chat-screen.png" alt="Интерфейс чата с панелью пользователей и полем ввода сообщений" width="600"/>
       <p>Интерфейс чата</p>
     </div>
   </div>
