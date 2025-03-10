@@ -1,20 +1,4 @@
 # Документация чат-приложения Flet в стиле Telegram
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-    <div>
-      <img src="https://github.com/aliaskh4n/Flet-Chat/blob/main/images/login-screen.png" alt="Экран входа в чат с полем для имени пользователя и кнопкой входа" width="600"/>
-      <p>Экран входа в чат</p>
-    </div>
-    <div>
-      <img src="https://github.com/aliaskh4n/Flet-Chat/blob/main/images/chat-screen.png" alt="Интерфейс чата с панелью пользователей и полем ввода сообщений" width="600"/>
-      <p>Интерфейс чата</p>
-    </div>
-  </div>
-</div>
-
-## Обзор проекта
-
 Flet Chat — это современное чат-приложение, разработанное с использованием технологий Flet и Flask. Приложение предоставляет интуитивно понятный интерфейс в стиле Telegram с темной темой и акцентным цветом <span style="color:#64B9FF">**#64B9FF**</span>, позволяя пользователям обмениваться сообщениями в реальном времени.
 
 Основные особенности приложения:
